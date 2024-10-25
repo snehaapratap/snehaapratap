@@ -56,6 +56,9 @@ Focusing primarily on data science and machine learning.<br>Currently working on
 <div align='center'>
   
 ![](https://leetcard.jacoblin.cool/snehaapratap?ext=heatmap)
+<!-- ![](https://code_chef_card.jacoblin.cool/snehaapratap?ext=heatmap) -->
+
+
 </div>
 
 # 🏆 Digital Badges
