@@ -1,4 +1,4 @@
-<!-- <p align="center"> -->
+ <!-- <p align="center"> -->
 <!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=500&height=45&lines=Data+Scientist.;Machine+learning+Developer.;Python+%7C+SQL+%7C+AWS" alt="Typing SVG" /></a>
 <!-- </p> --> 
 
