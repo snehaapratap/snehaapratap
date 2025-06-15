@@ -116,7 +116,9 @@ def main():
 </div>
 
 </p>
-
+<!-- <a href="https://github.com/snehaapratap">
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=snehaapratap&theme=react&locale=en" />
+</a> -->
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=snehaapratap&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
