@@ -93,9 +93,9 @@ def main():
     <a href="https://github.com/snehaapratap/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://streak-stats.demolab.com/?user=snehaapratap&theme=react&border=61dafb&hide_border=true" alt="snehaapratap" />
     </a>
-<!--     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+   <!-- <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=snehaapratap&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a> -->
+    </a>  -->
   </div>
  <div align='right'>
     <a href="https://github.com/snehaapratap/github-readme-stats">
@@ -113,6 +113,10 @@ def main():
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=snehaapratap&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=snehaapratap&theme=react&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snehaapratap&theme=react)
+<!-- B -->
+<!-- <a href="https://github.com/snehaapratap">
+  <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=snehaapratap&theme=react&locale=en" />
+</a> -->
 </div>
 
 </p>
