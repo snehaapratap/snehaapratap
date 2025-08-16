@@ -1,7 +1,6 @@
  <!-- <p align="center"> -->
 <!--   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=500&height=45&lines=Data+Scientist.;Machine+learning+Developer.;Python+%7C+SQL+%7C+AWS" alt="Typing SVG" /></a>
 <!-- </p> --> 
-
 <h1>
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" /> About Me:
 </h1>
