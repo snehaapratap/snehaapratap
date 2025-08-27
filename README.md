@@ -185,10 +185,10 @@ def main():
   <img width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=snehaapratap&theme=react&locale=en" />
 </a> -->
 
-# 🏆 GitHub Trophies
+<!-- # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=snehaapratap&theme=algolia&no-frame=true&no-bg=true&margin-w=4)
 <br/>
-<br/>
+<br/> -->
 # 🔝 Leetcode Stats
 <!-- ![](https://github-contributor-stats.vercel.app/api?username=snehaapratap&limit=5&theme=gotham&combine_all_yearly_contributions=true) -->
 <!-- ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=snehaapratap&animated=true&theme=dark) -->
