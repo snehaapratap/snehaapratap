@@ -130,11 +130,10 @@ Focusing primarily on data science and machine learning.<br>Currently working on
 def main():
     alive = True
     while alive:
-        code()
-        preprocess_data()
-        build_models()
-        sleep()
-        repeat()
+         eat()
+         code()
+         sleep()
+         repeat()
 
 
 
